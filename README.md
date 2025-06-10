@@ -44,4 +44,4 @@ https://github.com/Derlngton/che-to-tam/pull/1
 https://github.com/oleg-afonick/task_19/pull/1
 В качестве примера я создал репозиторий code_review https://github.com/artemonsh/code_review
 
-Сделал пустой коммит
+Сделал пустой коммит.
