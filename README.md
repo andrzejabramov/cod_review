@@ -2,12 +2,12 @@
 После выполнения задания напишите об этом в телеграм t.me/python_backend_homework чтобы ваше задание было оперативно проверено 
 Необходимо сделать код-ревью любого из указанных проектов (либо найти свой) 
 
-https://github.com/artyomklg/fastapi-jwt-auth-example
-https://github.com/theshohidul/FastAPI-Boilerplate
-https://github.com/devbutlazy/LazyWeb
-https://github.com/emptybutton/Aqua/tree/main/services/backend
-https://github.com/Tishka17/fastapi-template (сложно)
-https://github.com/SamWarden/user_service (самый сложный проект, брать только при большой уверенности в своих знаниях)
+https://github.com/artyomklg/fastapi-jwt-auth-example 
+https://github.com/theshohidul/FastAPI-Boilerplate 
+https://github.com/devbutlazy/LazyWeb 
+https://github.com/emptybutton/Aqua/tree/main/services/backend 
+https://github.com/Tishka17/fastapi-template (сложно) 
+https://github.com/SamWarden/user_service (самый сложный проект, брать только при большой уверенности в своих знаниях) 
 
 В код-ревью обязательно должны быть: 
 Комментарии о том, какие участки кода для вас остались непонятными. Если вы не поняли, зачем что-то написано, сообщите об этом, выделив непонятные для вас строчки  — я помогу разобраться, и у вас улучшится понимание 
